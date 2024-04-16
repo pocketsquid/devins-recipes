@@ -3,14 +3,17 @@
     "pattern": [
         "  #",
         " P ",
-        "P  "
+        "I  "
     ],
     "key": {
         "#": {
-            "item": "minecraft:string"
+            "item": "minecraft:iron_ingot"
         },
         "P": {
             "item": "minecraft:paper"
+        },
+        "I": {
+            "item": "minecraft:ink_sac"
         }
     },
     "result": {
